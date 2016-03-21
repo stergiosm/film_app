@@ -1,0 +1,72 @@
+[
+{
+	"title": "Captain America",
+	"genre": "science fiction, action",
+	"actors": "Tom Holland, Scarlet Johansson, Elizabeth Olsen",
+	"year": "2016",
+	"image": "captain_america.jpg",
+	"language": "English",
+	"runtime": "146 min",
+	"country": "USA"
+},
+{
+	"title": "Batman v Superman",
+	"genre": "adventure, fantasy, action",
+	"actors": "Ben Affleck, Henry Cavill, Amy Adams",
+	"year": "2016",
+	"image": "batman_superman.jpg",
+	"language": "English",
+	"runtime": "153 min",
+	"country": "USA"	
+},
+{
+	"title": "Zootopia",
+	"genre": "animation, action",
+	"actors": "Ginnifer Goodwin, Jason Bateman, Idris Elba",
+	"year": "2016",
+	"image": "zootopia.jpg",
+	"language": "English, Norwegian",
+	"runtime": "108 min",
+	"country": "USA"
+},
+{
+	"title": "Deadpool",
+	"genre": "adventure, comedy, action",
+	"actors": "Ryan Reynolds, Karan Soni, Ed Skrein",
+	"year": "2016",
+	"image": "deadpool.jpg",
+	"language": "English",
+	"runtime": "108 min",
+	"country": "USA, Canada"
+},
+{
+	"title": "Ghostbusters",
+	"genre": "comedy, Sci-fi, action",
+	"actors": "Melissa McCarthy, Chris Hemsworth, Kate McKinnon",
+	"year": "2016",
+	"image": "ghostbusters.jpg",
+	"language": "English",
+	"runtime": "? min",
+	"country": "USA"
+},
+{
+	"title": "X MEN",
+	"genre": "adventure, fantasy, action",
+	"actors": "Jennifer Lawrence, Olivia Munn, Sophie Turner",
+	"year": "2016",
+	"image": "xmen.jpg",
+	"language": "English",
+	"runtime": "146 min",
+	"country": "USA"
+},
+{
+	"title": "Risen",
+	"genre": "adventure, drama, action",
+	"actors": "Joseph Fiennes, Tom Felton, Peter Firth",
+	"year": "2016",
+	"image": "risen.jpg",
+	"language": "English",
+	"runtime": "107 min",
+	"country": "USA"
+}
+]
